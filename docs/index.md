@@ -1,10 +1,9 @@
 # Documentation for the Upper Tanana keyboards
 
+## Layouts
 
-# Layouts
+- [Layout overview](layout.md)
 
--   [Layout overview](layout.html)
-
-# Other information
+## Other information
 
 - [Upper Tanana graphemes](Upper-Tanana-graphemes.md)
