@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Documentation for the Upper Tanana keyboards
 
 ## Layouts
